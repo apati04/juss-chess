@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chessboardjs": "0.0.1",
+    "chessjs": "0.0.1",
+    "firebase": "^4.4.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.14"
